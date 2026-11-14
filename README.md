@@ -2,15 +2,15 @@
 # 🚀 Python System Enumerator
 
 <p align="center">
-  <strong>A Python-Based System Information Gathering & Enumeration Tool</strong>
-  <br>
-  Built for Penetration Testers, Offensive Security Engineers, and Security Researchers.
+<strong>A Python-Based System Information Gathering & Enumeration Tool</strong>
+<br>
+Built for Penetration Testers, Offensive Security Engineers, and Security Researchers.
 </p>
 
 <p align="center">
-  ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
-  ![Security](https://img.shields.io/badge/Purpose-System%20Enumeration-red?style=for-the-badge)
-  ![Testing](https://img.shields.io/badge/Usage-Authorized%20Testing-green?style=for-the-badge)
+<img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Purpose-System%20Enumeration-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Usage-Authorized%20Testing-green?style=for-the-badge" />
 </p>
 
 ---
